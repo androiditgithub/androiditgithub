@@ -21,11 +21,7 @@ Hi 🙏, I'm Mansur Alam<br>A passionate software-developer student from Bihar <
 [![website](./img/instagram-light.svg)](https://www.instagram.com/mdmansur118/?igshid=ZDdkNTZiNTM=#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/mdmansur118/?igshid=ZDdkNTZiNTM=#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)] #gh-light-mode-only)
-[![website](./img/twitter-dark.svg)]( #gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/globe-light.svg)]( #gh-light-mode-only)
-[![website](./img/globe-dark.svg)]( #gh-dark-mode-only)
+ 
  
  
 
